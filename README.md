@@ -3,8 +3,7 @@
 
 An interactive Power BI report exploring global development through economic performance, population dynamics, country-level indicators, and energy resources.
 
-![Dashboard Landing Page](assets/01-global-development-overview.png)
----
+![Dashboard Landing Page](assets/01-Global-Development-Overview.png)
 
 ## Project at a Glance
 
@@ -37,7 +36,7 @@ A global snapshot of economic performance and population.
 - GDP Growth by Country
 - Population by Country
 
-![Global Overview](assets/02-global-overview.png)
+![Global Overview](assets/02-Global-Overview.png)
 
 ### 3. World Population & Demographics
 Explores population distribution, country size, and population density.
@@ -53,7 +52,7 @@ Explores population distribution, country size, and population density.
 - World Population Distribution Map
 - Top 10 Countries by Population Density
 
-![World Population & Demographics](assets/03-world-population-demographics.png)
+![World Population & Demographics](assets/03-World-Population-Demographics.png)
 
 ### 4. Country Profile & Development Insights
 An interactive country-level view for exploring economic, demographic, and social indicators.
@@ -74,7 +73,8 @@ An interactive country-level view for exploring economic, demographic, and socia
 - Country slicer
 - Drill-through analysis
 
-![Country Profile & Development Insights](assets/04-country-profile-development-insights.png)
+![Country Profile & Development Insights](assets/04-Country-Profile-Development-Insights.png)
+
 
 
 ### 5. Energy & Natural Resources
@@ -91,7 +91,7 @@ Explores energy production, consumption, and resource reserves.
 - Oil Production vs. Consumption
 - Top 10 Countries by Natural Gas Production
 
-![Energy & Natural Resources](assets/05-energy-natural-resources.png)
+![Energy & Natural Resources](assets/05-Energy-Natural-Resources.png)
 
 ---
 
