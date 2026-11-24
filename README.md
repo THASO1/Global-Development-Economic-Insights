@@ -3,10 +3,7 @@
 
 An interactive Power BI report exploring global development through economic performance, population dynamics, country-level indicators, and energy resources.
 
-<p align="center">
-  <img src="assets/01-global-development-overview.png" alt="Dashboard landing page" width="100%">
-</p>
-
+![Dashboard Landing Page](assets/01-global-development-overview.png)
 ---
 
 ## Project at a Glance
@@ -40,9 +37,7 @@ A global snapshot of economic performance and population.
 - GDP Growth by Country
 - Population by Country
 
-<p align="center">
-  <img src="assets/02-global-overview.png" alt="Global Development Overview" width="100%">
-</p>
+![Global Overview](assets/02-global-overview.png)
 
 ### 3. World Population & Demographics
 Explores population distribution, country size, and population density.
@@ -58,9 +53,7 @@ Explores population distribution, country size, and population density.
 - World Population Distribution Map
 - Top 10 Countries by Population Density
 
-<p align="center">
-  <img src="assets/03-world-population-demographics.png" alt="World Population and Demographics" width="100%">
-</p>
+![World Population & Demographics](assets/03-world-population-demographics.png)
 
 ### 4. Country Profile & Development Insights
 An interactive country-level view for exploring economic, demographic, and social indicators.
@@ -81,9 +74,8 @@ An interactive country-level view for exploring economic, demographic, and socia
 - Country slicer
 - Drill-through analysis
 
-<p align="center">
-  <img src="assets/04-country-profile-development-insights.png" alt="Country Profile and Development Insights" width="100%">
-</p>
+![Country Profile & Development Insights](assets/04-country-profile-development-insights.png)
+
 
 ### 5. Energy & Natural Resources
 Explores energy production, consumption, and resource reserves.
@@ -99,9 +91,7 @@ Explores energy production, consumption, and resource reserves.
 - Oil Production vs. Consumption
 - Top 10 Countries by Natural Gas Production
 
-<p align="center">
-  <img src="assets/05-energy-natural-resources.png" alt="Energy and Natural Resources" width="100%">
-</p>
+![Energy & Natural Resources](assets/05-energy-natural-resources.png)
 
 ---
 
